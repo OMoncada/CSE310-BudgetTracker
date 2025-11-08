@@ -1,6 +1,8 @@
 # CSE310-BudgetTracker
 Income and Expense Log
 
+Video: https://youtu.be/XgzSr-hDtRg
+
 # Budget Tracker (JavaScript Project)
 
 This is a **Budget Tracker** web app made with **HTML, CSS, and JavaScript**.  
